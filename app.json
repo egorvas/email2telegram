@@ -1,0 +1,10 @@
+{
+  "name": "Email2Telegram",
+  "description": "Simple heroku button to configure bot which will sent emails to telegram",
+  "repository": "https://github.com/egorvas/email2telegram",
+  "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/600px-Telegram_logo.svg.png",
+  "keywords": ["email2telegram", "telegram", "email", "bot"],
+  "addons": [
+    "mailgun"
+  ]
+}
